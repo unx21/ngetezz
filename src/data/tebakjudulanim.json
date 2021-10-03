@@ -1,64 +1,63 @@
 [
     
     {
-        "image": "https://images4.alphacoders.com/592/592538.jpg",
-        "name": "Akame ga kill"
+        "img": "https://images4.alphacoders.com/592/592538.jpg",
+        "jawaban": "Akame ga kill"
         },
     {
-        "image": "https://images6.alphacoders.com/577/577545.jpg",
-        "name": "Blood C"
+        "img": "https://images6.alphacoders.com/577/577545.jpg",
+        "jawaban": "Blood C"
         },
     {
-        "image": "https://images8.alphacoders.com/683/683505.jpg",
-        "name": "Charlotte"
+        "img": "https://images8.alphacoders.com/683/683505.jpg",
+        "jawaban": "Charlotte"
         },
     {
-        "image": "https://images5.alphacoders.com/676/676626.jpg",
-        "name": "Death Parade"
+        "img": "https://images5.alphacoders.com/676/676626.jpg",
+        "jawaban": "Death Parade"
         },
     {
-        "image": "https://images7.alphacoders.com/103/1034470.jpg",
-        "name": "Enen no Shobutai"
+        "img": "https://images7.alphacoders.com/103/1034470.jpg",
+        "jawaban": "Enen no Shobutai"
         },
     {
-        "image": "https://images4.alphacoders.com/763/76328.jpg",
-        "name": "Full Metal Panic"
+        "img": "https://images4.alphacoders.com/763/76328.jpg",
+        "jawaban": "Full Metal Panic"
         },
     {
-        "image": "https://images6.alphacoders.com/806/806795.png",
-        "name": "Hajimete no gal"
+        "img": "https://images6.alphacoders.com/806/806795.png",
+        "jawaban": "Hajimete no gal"
         },
     {
-        "image": "https://images3.alphacoders.com/909/909055.jpg",
-        "name": "Inuyashiki"
+        "img": "https://images3.alphacoders.com/909/909055.jpg",
+        "jawaban": "Inuyashiki"
         },
     {
-        "image": "https://images6.alphacoders.com/880/880726.jpg",
-        "name": "Juuni Taisen"
+        "img": "https://images6.alphacoders.com/880/880726.jpg",
+        "jawaban": "Juuni Taisen"
         },
     {
-        "image": "https://images.alphacoders.com/106/1062518.jpg",
-        "name": "Kaifuku Jutsushi no Yarinaoshi"
+        "img": "https://images.alphacoders.com/106/1062518.jpg",
+        "jawaban": "Kaifuku Jutsushi no Yarinaoshi"
         },
     {
-        "image": "https://images2.alphacoders.com/518/518321.jpg",
-        "name": "Love Live"
+        "img": "https://images2.alphacoders.com/518/518321.jpg",
+        "jawaban": "Love Live"
         },
     {
-        "image": "https://images.app.goo.gl/QpKCkpNfidT85zJU6",
-        "name": "Mekakucity Actors"
+        "img": "https://images.app.goo.gl/QpKCkpNfidT85zJU6",
+        "jawaban": "Mekakucity Actors"
         },
     {
-        "image": "https://images6.alphacoders.com/548/548268.jpg",
-        "name": "Noragami"
+        "img": "https://images6.alphacoders.com/548/548268.jpg",
+        "jawaban": "Noragami"
         },
     {
-        "image": "https://images.app.goo.gl/DKBrgzjfHdxqEy9z6",
-        "name": "Overflow"
+        "img": "https://images.app.goo.gl/DKBrgzjfHdxqEy9z6",
+        "jawaban": "Overflow"
         },
     {
-        "image": "https://images8.alphacoders.com/809/809673.jpg",
-        "name": "Perfect Blue"
-     }
-
+        "img": "https://images8.alphacoders.com/809/809673.jpg",
+        "jawaban": "Perfect Blue"
+        }
 ]
