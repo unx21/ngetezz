@@ -1,3 +1,5 @@
+[
+
     {
         "img": "https://images4.alphacoders.com/592/592538.jpg",
         "jawaban": "Akame ga kill"
@@ -54,3 +56,5 @@
         "img": "https://images8.alphacoders.com/809/809673.jpg",
         "jawaban": "Perfect Blue"
         }
+
+]
